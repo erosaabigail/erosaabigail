@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there 👋, I'm Abigail Erosa! 
 
-<!--
-**erosaabigail/erosaabigail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About Me
 
-Here are some ideas to get you started:
+I am a **Full Stack Developer** dedicated to crafting efficient, user-centric web applications. Since graduating from an immersive coding bootcamp and launching my freelance career in 2022, I have successfully partnered with clients to take complex projects from initial concept to successful deployment. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Working independently has required me to wear multiple hats. I am just as comfortable architecting a relational database as I am building intuitive, responsive user interfaces. 
+
+- 💼 **Experience:** Freelance Full Stack Consultant (2022 - Present).
+- 🚀 **Mission:** Delivering robust digital solutions and writing clean, maintainable code.
+- 🌱 **Learning:** Continuously exploring new technologies to stay at the forefront of industry standards.
+- 🤝 **Open to:** I am actively looking for my next big opportunity to build something great with a collaborative team.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Frameworks:**
+- JavaScript (ES6+) | TypeScript | Python | Go
+- React.js | Node.js
+
+**Databases:**
+- MongoDB | PostgreSQL
+
+**Tools & Architecture:**
+- Git & GitHub | Docker 
+- RESTful APIs | CI/CD | Agile Workflows
+
+---
+
+## 📫 Let's Connect!
+
+- **LinkedIn:** https://www.linkedin.com/in/abigail-erosa-735b60290/
+- **Email:** erosaabigail@gmail.com
